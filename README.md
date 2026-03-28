@@ -38,7 +38,8 @@ REGULATION CHARACTERISTICS:
 <img width="778" height="379" alt="Screenshot 2026-03-28 171853" src="https://github.com/user-attachments/assets/528122b2-fb83-4730-ad76-17ab832e34b5" />
 
 
-V-I & REGULATION CHARACTERISTICS:
+<h1>VOTLAGE REGULATIONS</h1>
+
 
 PRECAUTIONS:
 
