@@ -30,6 +30,13 @@ PROCEDURE:
 OBSERVATIONS:
 
 REGULATION CHARACTERISTICS:
+<h1>LINE REGULATION</h1>
+
+<img width="766" height="346" alt="Screenshot 2026-03-28 171828" src="https://github.com/user-attachments/assets/f11f472e-89a8-4854-a321-c2c1e112c3e8" />
+<img width="716" height="302" alt="Screenshot 2026-03-28 172238" src="https://github.com/user-attachments/assets/5da6ae7b-30a1-4add-9820-cdbee46503d8" />
+<img width="634" height="398" alt="Screenshot 2026-03-28 171839" src="https://github.com/user-attachments/assets/01dde66c-9844-4858-a882-96873d8a87f8" />
+<img width="778" height="379" alt="Screenshot 2026-03-28 171853" src="https://github.com/user-attachments/assets/528122b2-fb83-4730-ad76-17ab832e34b5" />
+
 
 V-I & REGULATION CHARACTERISTICS:
 
