@@ -39,6 +39,11 @@ REGULATION CHARACTERISTICS:
 
 
 <h1>VOTLAGE REGULATIONS</h1>
+<img width="762" height="292" alt="Screenshot 2026-03-28 172747" src="https://github.com/user-attachments/assets/7aa5146d-1423-43cd-a13e-c1847c5fc901" />
+<img width="716" height="302" alt="Screenshot 2026-03-28 172238" src="https://github.com/user-attachments/assets/e83f2d4d-5506-4ad0-ab42-445c6ab57bd3" />
+<img width="768" height="355" alt="Screenshot 2026-03-28 172755" src="https://github.com/user-attachments/assets/a04fe137-16ee-422f-aec9-f23d66bc0fca" />
+<img width="787" height="415" alt="Screenshot 2026-03-28 172803" src="https://github.com/user-attachments/assets/49a4c716-dbe9-4431-b85b-d60083f80b35" />
+
 
 
 PRECAUTIONS:
